@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Bret's github stats](https://github-readme-stats.vercel.app/api?username=bretm9&hide=stars)](https://github.com/bretm9/github-readme-stats)
 
 <!--
 **bretm9/bretm9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
