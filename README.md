@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there! I'm Bret (he/him).
+
+I am a software developer driven by creativity and highly-focused problem-solving. I studied game design in college, but it wasn't until my time at Turing School of Software and Design that I truly found my identity as a developer. 
+
+As a graduate of Turing School (the only ACCET accredited bootcamp in the US), I have cultivated a core knowledge-base to step into any tech-stack thrown at me. I have the adaptability and research skills needed to learn new techs quickly, and the focus and collaborative skills to build applications in said new environments. I have worked in every step of the development cycle of numerous apps through planning, implementing, testing, and deploying full-scale projects built over the course of just a few weeks. 
+
+Most importantly, I have a passion for impacting the world for the better through code. I believe technology can be a driving force in repairing our broken world and move us towards a more accessible, inclusive, diverse, and overall progressive future.
+
 [![Bret's github stats](https://github-readme-stats.vercel.app/api?username=bretm9&hide=stars)](https://github.com/bretm9/github-readme-stats)
 
 <!--
