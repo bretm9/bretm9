@@ -6,9 +6,9 @@ As a graduate of Turing School (the only ACCET accredited bootcamp in the US), I
 
 Most importantly, I have a passion for impacting the world for the better through code. I believe technology can be a driving force in repairing our broken world and move us towards a more accessible, inclusive, diverse, and overall progressive future.
 
+<!--
 [![Bret's github stats](https://github-readme-stats.vercel.app/api?username=bretm9&hide=stars)](https://github.com/bretm9/github-readme-stats)
 
-<!--
 **bretm9/bretm9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
